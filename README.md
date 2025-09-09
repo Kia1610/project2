@@ -1,4 +1,4 @@
 # new project
 
 this project was created from local system
-Created by krisha suthar
+Created by krisha suthar.
